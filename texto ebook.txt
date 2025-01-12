@@ -1,0 +1,53 @@
+
+Projeto Ebook
+
+PROMPT TÍTULO CHATGPT
+
+Prompt Título ChatGpt: crie um título para um Ebook sobre o tema 'vegetarianismo" , o ebook é para a população leiga e deverá focar na relevância da dieta vegetariana para melhora da saúde e meio ambiente, o título deve ser curto e criativo e despertar interesse imediato para leitura, liste três variações de título.
+Resultados: "Viva Verde: Como a Dieta Vegetariana Transforma Sua Saúde e o Planeta"
+"Alimente Sua Vida: O Impacto Positivo do Vegetarianismo"
+"Verde é Vida: Benefícios do Vegetarianismo para Você e o Mundo"
+
+______________________________________
+
+PROMPT CRIAÇÃO DO CONTEÚDO CHATGPT
+
+
+Você disse:
+faça um texto para ebook com foco em vegetarianismo, listando os principais pontos da importância dessa dieta na saúde e meio ambiente.                                                                                                     {Regras}                                                                                                                                              > Explique  sempre de maneira simples                                                                                                                                                          > Deixe o texto enxuto                                                                                                                         > Sempre deixe um título sugestivo por tópico
+O ChatGPT disse:
+ChatGPT
+
+Vegetarianismo: Benefícios para a Saúde e o Meio Ambiente
+1. Saúde: Mais Energia e Bem-Estar
+
+A dieta vegetariana é naturalmente rica em nutrientes como fibras, vitaminas e antioxidantes, encontrados em frutas, legumes e grãos integrais. Esses alimentos ajudam a melhorar o sistema imunológico, aumentar os níveis de energia e promover uma digestão saudável.
+
+Além disso, a alimentação vegetariana pode reduzir o risco de doenças como hipertensão, diabetes tipo 2, colesterol alto e doenças cardíacas, devido à menor ingestão de gorduras saturadas e colesterol.
+2. Controle de Peso: Uma Dieta Menos Calórica
+
+Ao optar por uma alimentação baseada em vegetais, muitas pessoas percebem uma perda de peso natural. Isso ocorre porque os alimentos vegetarianos são, em geral, menos calóricos e mais ricos em fibras, que aumentam a sensação de saciedade, reduzindo a ingestão de calorias excessivas.
+3. Benefícios para o Meio Ambiente: Menos Emissões, Menos Desmatamento
+
+A produção de alimentos vegetais tem um impacto ambiental muito menor em comparação com a carne. A agricultura vegetal exige menos recursos naturais, como água e terra, e gera menos emissões de gases de efeito estufa.
+
+Ao escolher o vegetarianismo, você contribui para a redução do desmatamento, da poluição e do aquecimento global, ajudando a preservar o planeta para as futuras gerações.
+4. Redução do Sofrimento Animal: Uma Escolha Ética
+
+Optar por uma dieta vegetariana também é uma maneira de se alinhar com a ética de proteção animal. Ao reduzir o consumo de produtos de origem animal, você ajuda a diminuir a demanda por práticas que envolvem sofrimento e exploração dos animais nas indústrias alimentícias.
+5. Economia de Recursos Naturais: Menos Água, Menos Terra
+
+A produção de carne exige grandes quantidades de recursos naturais. Para produzir um quilo de carne bovina, por exemplo, são necessários milhares de litros de água e uma grande área de terra para cultivo de ração. Com uma dieta vegetariana, você está ajudando a conservar esses recursos, que são cada vez mais escassos.
+
+Conclusão
+
+Adotar uma dieta vegetariana é uma escolha que beneficia não apenas a sua saúde, mas também o meio ambiente e os animais. Com benefícios comprovados para o corpo e o planeta, esse estilo de vida se torna uma maneira simples e eficaz de promover um mundo mais saudável e sustentável para todos.
+_________________________________
+
+
+PROMPT CRIAÇÃO DE IMAGENS NO LEONARDO.AI
+
+create colorful image about vegetarianism and its benefits for humans and planets
+
+create colorful  image about vegetarian protein sources
+
